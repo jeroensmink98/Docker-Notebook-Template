@@ -1,4 +1,5 @@
 # Docker Notebook Template
+A starter template to launch Jupyter Notebook inside on a docker container for easy development of notebook scripts without the need to install python or any external modules. You can also create multiple variants with each their own set of packages and version of modules.
 
 ## Setup
 Configure the ``docker-compose.yml`` file to your needs. Add packages in the ``requirements.txt`` file and run ``docker-compose up`` to build and run the container.
