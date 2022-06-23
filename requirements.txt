@@ -1,2 +1,3 @@
 # Here you can add python packages just as a normal requirements.txt file
 pandas
+jedi==0.17.2
