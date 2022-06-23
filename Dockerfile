@@ -1,5 +1,5 @@
 # Version lock specific version we are going to use
-FROM jupyter/base-notebook:python-3.8.8
+FROM jupyter/base-notebook:python-3.10.5
 
 # Copy over the local requirements.txt file to include our Python Modules
 COPY requirements.txt .
